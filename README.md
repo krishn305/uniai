@@ -1,4 +1,3 @@
-# uniai
 # UniAi 🎓
 ### AI-Powered International University Recommendation Platform
 
